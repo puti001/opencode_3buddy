@@ -1,0 +1,12 @@
+# Google Drive 同步暫存檔
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.*.swp
+*.tmp
+
+# 三兄弟自動產生的日誌不追蹤版本
+shared/三兄弟必看/直接跑/
+shared/三兄弟必看/回報/
+shared/三兄弟必看/已處理/
